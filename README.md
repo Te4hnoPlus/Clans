@@ -1,2 +1,8 @@
 # Clans
-Simple Clans Plugin By DarkDhz Adaptation for 1.16+
+This plugin is an adaptation of the 1.16+
+
+Original plugin bld - https://www.spigotmc.org/resources/clans.42608/
+Original plugin src - https://github.com/DarkDhz/Clans
+
+
+
